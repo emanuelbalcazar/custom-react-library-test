@@ -12,10 +12,6 @@
     "url": "git+https://github.com/emanuelbalcazar/custom-react-library-test.git"
   },
   "babel": {
-    "presets": [
-      "@babel/preset-react",
-      "@babel/preset-env"
-    ],
     "plugins": [
       "@babel/plugin-transform-react-jsx"
     ]
