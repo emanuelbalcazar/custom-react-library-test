@@ -1,5 +1,3 @@
-import React from 'react';
-
-const ButtonEma = ({ text, onClick }) => (<button className='button' onClick={onClick}>{text}</button>)
+const ButtonEma = ({ text, onClick }) => (<div className='button'>{text}</div>)
 
 export default ButtonEma;
