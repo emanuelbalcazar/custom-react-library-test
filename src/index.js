@@ -1,3 +1,3 @@
-import Button from "./Button/Button";
+import ButtonEma from "./Button/Button";
 
-export { Button };
+export { ButtonEma };
